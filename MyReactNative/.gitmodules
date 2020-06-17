@@ -1,0 +1,3 @@
+[submodule "MyReactNative"]
+	path = MyReactNative
+	url = https://github.com/kojiyuu-123/firstReact.git
